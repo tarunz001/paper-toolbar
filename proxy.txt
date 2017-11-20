@@ -1,0 +1,34 @@
+64-00-6A-2A-C3-8E
+
+GURWUNI5F1270
+
+13	TARUN KUMAR	49315	tarun2.kumar@aricent.com	10.203.143.62	GURWUNI5F1270	64-00-6A-2A-C3-8E	10.203.143.62
+
+
+npm config set proxy http://gur49315:1Radha#Swami@165.225.106.34:80
+npm config set https-proxy http://gur49315:1Radha#Swami@165.225.106.34:80
+
+
+npm config set proxy http://165.225.106.34:80
+npm config set https-proxy http://165.225.106.34:80
+
+
+npm config set proxy http://gur49315:1Radha#Swami@165.225.106.34:80
+npm config set https-proxy http://gur49315:1Radha#Swami@165.225.106.34:80
+
+C:\Users\GUR49315\Desktop\test>npm install -g bower
+npm WARN deprecated bower@1.8.2: ...psst! Your project can stop working at any moment because its dependencies can change. Prevent th
+is by migrating to Yarn: https://bower.io/blog/2017/how-to-migrate-away-from-bower/
+C:\Users\GUR49315\AppData\Roaming\npm\bower -> C:\Users\GUR49315\AppData\Roaming\npm\node_modules\bower\bin\bower
++ bower@1.8.2
+updated 1 package in 7.57s
+
+softwares needed for UI dev
+editor - atom/visual studio
+nodejs
+db -? mariadb
+eclipse setup
+java 8
+git/svn
+
+
